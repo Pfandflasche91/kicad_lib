@@ -201,7 +201,7 @@
   (pad 174 smd rect (at -9.75 -12.725 0) (size 0.3 1.45) (layers F.Cu F.Paste F.Mask))
   (pad 175 smd rect (at -10.25 -12.725 0) (size 0.3 1.45) (layers F.Cu F.Paste F.Mask))
   (pad 176 smd rect (at -10.75 -12.725 0) (size 0.3 1.45) (layers F.Cu F.Paste F.Mask))
-  (model "D:\\Programme\\KiCad\\lib\\ownParts\\SamacSys_Parts.3dshapes\\STM32H747IGT6.stp"
+  (model STM32H747IGT6.stp
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

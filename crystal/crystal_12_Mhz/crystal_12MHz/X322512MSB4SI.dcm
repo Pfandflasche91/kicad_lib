@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP X322512MSB4SI
+D SMD Crystal Resonators 12MHz +/-10ppm SMD-3225_4P RoHS
+K
+F https://datasheet.lcsc.com/szlcsc/Yangxing-Tech-X322512MSB4SI_C9002.pdf
+$ENDCMP
+#
+#End Doc Library

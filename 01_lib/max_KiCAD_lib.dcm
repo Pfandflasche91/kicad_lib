@@ -5,6 +5,12 @@ D USB Connectors SMD RoHS
 F https://datasheet.lcsc.com/szlcsc/Jing-Extension-of-the-Electronic-Co-LCSC-MICRO-USB-5S-B-Type-horns-High-temperature_C10418.pdf
 $ENDCMP
 #
+$CMP Crystal_16MHz
+D Two pin crystal
+K quartz ceramic resonator oscillator
+F ~
+$ENDCMP
+#
 $CMP STM32H747IGT6
 D ARM Microcontrollers - MCU 16/32-BITS MICROS
 F https://www.mouser.com/datasheet/2/389/dm00602212-1799407.pdf

@@ -11,6 +11,11 @@ K quartz ceramic resonator oscillator
 F ~
 $ENDCMP
 #
+$CMP MP2303ADN-LF
+D Switching Voltage Regulators 3A,28VSync Rectified Step-Down Converter
+F http://www.mouser.com/ds/2/277/MP2303A_r1.1-371783.pdf
+$ENDCMP
+#
 $CMP STM32H747IGT6
 D ARM Microcontrollers - MCU 16/32-BITS MICROS
 F https://www.mouser.com/datasheet/2/389/dm00602212-1799407.pdf

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MP2303ADN-LF
+D Switching Voltage Regulators 3A,28VSync Rectified Step-Down Converter
+K
+F http://www.mouser.com/ds/2/277/MP2303A_r1.1-371783.pdf
+$ENDCMP
+#
+#End Doc Library

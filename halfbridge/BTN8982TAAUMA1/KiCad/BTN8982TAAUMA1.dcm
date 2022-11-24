@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BTN8982TAAUMA1
+D Infineon BTN8982TAAUMA1, BLDC Motor Driver IC, 40 V 55A 7-Pin, TO-263
+K
+F https://www.infineon.com/dgdl/Infineon-BTN8982TA-DS-v01_00-EN.pdf?fileId=db3a30433fa9412f013fbe32289b7c17&intc=reco
+$ENDCMP
+#
+#End Doc Library

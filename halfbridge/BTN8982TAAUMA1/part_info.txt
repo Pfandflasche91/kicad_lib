@@ -1,0 +1,9 @@
+Manufacturer=Infineon
+PartNumber=BTN8982TAAUMA1
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=8
+Version=1.1
+Released=2018-12-10 23:45:30
+Downloaded=2022-11-24 17:28:47
+3D=Y

@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BTN8982TAAUMA1
+D Infineon BTN8982TAAUMA1, BLDC Motor Driver IC, 40 V 55A 7-Pin, TO-263
+F https://www.infineon.com/dgdl/Infineon-BTN8982TA-DS-v01_00-EN.pdf?fileId=db3a30433fa9412f013fbe32289b7c17&intc=reco
+$ENDCMP
+#
 $CMP C10418
 D USB Connectors SMD RoHS
 F https://datasheet.lcsc.com/szlcsc/Jing-Extension-of-the-Electronic-Co-LCSC-MICRO-USB-5S-B-Type-horns-High-temperature_C10418.pdf

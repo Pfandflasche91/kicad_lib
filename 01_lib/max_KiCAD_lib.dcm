@@ -5,6 +5,11 @@ D Micro-Fit 3.0 Vertical Header, 3.00mm Pitch, Dual Row, 8 Circuits, with PCB Po
 F https://www.molex.com/pdm_docs/sd/430450612_sd.pdf
 $ENDCMP
 #
+$CMP 865080457015
+D Wurth Elektronik 470uF 25 V dc Aluminium Electrolytic Capacitor, WCAP-ASLI Series 2000h 10 (Dia.) x 10.35mm
+F https://www.we-online.com/catalog/datasheet/865080457015_valid_from_2022-04-21.pdf
+$ENDCMP
+#
 $CMP BTN8982TAAUMA1
 D Infineon BTN8982TAAUMA1, BLDC Motor Driver IC, 40 V 55A 7-Pin, TO-263
 F https://www.infineon.com/dgdl/Infineon-BTN8982TA-DS-v01_00-EN.pdf?fileId=db3a30433fa9412f013fbe32289b7c17&intc=reco

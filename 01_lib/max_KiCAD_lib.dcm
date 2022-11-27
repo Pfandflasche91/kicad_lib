@@ -36,6 +36,11 @@ D Board to Board & Mezzanine Connectors REC 80POS W/POST SMT
 F https://www.hirose.com/en/product/document?clcode=CL0570-0201-4-71&productname=FX10A-80S%2f8-SV(71)&series=FX10&documenttype=2DDrawing&lang=en&documentid=0000910337
 $ENDCMP
 #
+$CMP INA240A4DR
+D 80V, Low-/High-Side, Bi-Directional, Zero-Drift, Current Sense Amp w/Enhanced PWM Rejection
+F http://www.ti.com/lit/gpn/ina240
+$ENDCMP
+#
 $CMP MP2303ADN-LF
 D Switching Voltage Regulators 3A,28VSync Rectified Step-Down Converter
 F http://www.mouser.com/ds/2/277/MP2303A_r1.1-371783.pdf

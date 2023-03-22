@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SRR1050HA-150Y
+D Ind,10x10.2x4.8mm,15uH+/-30%,3.4A,shd
+K
+F http://www.bourns.com/docs/Product-Datasheets/SRR1050HA.pdf
+$ENDCMP
+#
+#End Doc Library

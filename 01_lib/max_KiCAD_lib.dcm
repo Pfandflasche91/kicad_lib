@@ -41,6 +41,11 @@ D 80V, Low-/High-Side, Bi-Directional, Zero-Drift, Current Sense Amp w/Enhanced 
 F http://www.ti.com/lit/gpn/ina240
 $ENDCMP
 #
+$CMP LM2675N-3.3_NOPB
+D SIMPLE SWITCHER 6.5V to 40V, 1A Low Component Count Step-Down Regulator
+F http://www.ti.com/lit/gpn/lm2675
+$ENDCMP
+#
 $CMP MP2303ADN-LF
 D Switching Voltage Regulators 3A,28VSync Rectified Step-Down Converter
 F http://www.mouser.com/ds/2/277/MP2303A_r1.1-371783.pdf
